@@ -74,6 +74,3 @@ The Hybrid Quantum–Classical model consistently outperformed both classical an
 If you use this code or associated research, please cite:
 
 Khan, M. B. (2026). *Quantum–Classical Synergy in Medical AI: A Dual-Phase Benchmark for Diagnostic Intelligence in Lung Cancer Classification*. MS Thesis, National University of Sciences and Technology.
-
-**Recommendation:**
-Before publishing, finalize numerical results in the table and ensure reproducibility by freezing library versions in `requirements.txt`. If required, I can generate a production-grade dependency file aligned with your experimental setup.
